@@ -44,7 +44,6 @@ body
 
 }
 
-<<<<<<< HEAD
 #container h1
 {
     font-size: 20px;
@@ -54,12 +53,11 @@ body
 {
     background: rgb(245, 242, 242);
     padding: 1cm;
-=======
+    
 #footer
 {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5;
->>>>>>> footer
 }
