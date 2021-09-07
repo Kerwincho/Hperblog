@@ -9,4 +9,6 @@ pero tambien de cuantas mascotas tiene
 
 master 1
 
+master 2
+
 generalmente pasa mucho tiempo con sus mascotas por lo que trabaja desde casa la mayoria del tiempo
