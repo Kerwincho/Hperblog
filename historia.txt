@@ -11,4 +11,12 @@ master 1
 
 master 2
 
+<<<<<<< HEAD
+=======
+esta es una linea para crear la rama de historia.mejorado
+segundo commit
+tercer commit
+cuato commit
+
+>>>>>>> 97555ce (mama que sera lo que quiere el negro)
 generalmente pasa mucho tiempo con sus mascotas por lo que trabaja desde casa la mayoria del tiempo
